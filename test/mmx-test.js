@@ -7,6 +7,7 @@ let accounts;
 let owner;
 let user;
 let token;
+let fff;
 
 describe("MMX", function () {
   before("deploy token", async function () {
